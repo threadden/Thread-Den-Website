@@ -1,0 +1,6 @@
+{
+  "name": "T-Shirt Reseller Platform",
+  "description": "A professional streetwear storefront and reseller dashboard featuring user accounts, profile settings with saved addresses and bank details, smooth motion animations, interactive online checkout with instant receipt generation, and a complete merchant inventory portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
